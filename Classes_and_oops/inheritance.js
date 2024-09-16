@@ -28,4 +28,4 @@ const charlie = new user("charlie")
 charlie.logMe()
 
 console.log(alpha === Teacher);
-console.log(alpha instanceof Teacher);
+console.log(alpha instanceof  Teacher);
